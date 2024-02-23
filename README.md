@@ -9,7 +9,8 @@
 The aim of this analysis is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
 
 ![Dashboard](Sales_pb.JPG)
-![Sales pb](https://github.com/AdeAdeB/Sales_Analysis/assets/152867868/a127133d-9132-49db-a300-d7bf46b57b44)
+![Sales pb](https://github.com/AdeAdeB/Sales_Analysis/commit/8a00e5367e16ea238ab4155336ef2868c28c83cb)
+
 
 
 
