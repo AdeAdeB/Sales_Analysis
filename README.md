@@ -1,9 +1,9 @@
 # Sales_Analysis
 
 ## Table of Contents
-- [Project Overview](project_overview)
-- [Exploratory Data Analysis](exploratory_data_analysis)
-- [Recommendations](recommendations)
+- [Project Overview](#project_overview)
+- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Recommendations](#recommendations)
 
 ### Project Overview
 The aim of this analysis is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
