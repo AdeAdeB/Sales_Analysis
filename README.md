@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project_overview)
-- [Results/Findings](#results/findings)
+- [Results/Findings](#results_findings)
 - [Recommendations](#recommendations)
 
 ### Project Overview
