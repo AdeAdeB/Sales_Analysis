@@ -8,6 +8,8 @@
 ### Project Overview
 The aim of this analysis is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
 
+![Dashboard](dashboard.PNG)
+
 ### Data Sources
 This data was provided by MeriSkill Inc.
 
