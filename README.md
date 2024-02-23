@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [Project Overview](#project_overview)
-- [Exploratory Data Analysis](#exploratory_data_analysis)
+- [Results/Findings](#results/findings)
 - [Recommendations](#recommendations)
 
 ### Project Overview
