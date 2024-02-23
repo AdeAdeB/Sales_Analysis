@@ -9,6 +9,9 @@
 The aim of this analysis is to analyze sales data to identify trends, top-selling products, and revenue metrics for business decision-making. 
 
 ![Dashboard](Sales_pb.JPG)
+![Sales pb](https://github.com/AdeAdeB/Sales_Analysis/assets/152867868/a127133d-9132-49db-a300-d7bf46b57b44)
+
+
 
 ### Data Sources
 This data was provided by MeriSkill Inc.
