@@ -3,6 +3,9 @@
 ## Table of Contents
 - [Project Overview](#projectoverview)
 - [Data Sources](#datasources)
+- [Tools](#tools)
+- [Data Cleaning/Transformation](#datacleaningtransformation)
+- [Exploratory Data Analysis](#exploratorydataanalysis)
 - [Results/Findings](#resultsfindings)
 - [Recommendations](#recommendations)
 
